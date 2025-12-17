@@ -1,3 +1,5 @@
+
+
 # 🎙️ Speech Emotion Recognition using Pretrained wav2vec2
 
 A simple and robust **Streamlit application** for **speech emotion recognition** using a **popular pretrained wav2vec2 model** from Hugging Face.  
@@ -15,6 +17,9 @@ The app allows users to select an audio file from emotion-labeled folders, run i
 - 🐍 Python 3.8 compatible
 
 ---
+x-special/nautilus-clipboard
+copy
+file:///home/zia/Desktop/Emotion.jpg
 
 
 ## 📁 Dataset Structure
