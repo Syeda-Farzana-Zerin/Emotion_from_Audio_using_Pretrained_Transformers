@@ -47,7 +47,7 @@ This project uses the following **widely used pretrained model**:
 No feature extraction (MFCCs or spectrograms) is required.
 
 Clone it:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Syeda-Farzana-Zerin/Emotion_from_Audio_using_Pretrained_Transformers
 cd your-repo-name
 
 Install dependencies
